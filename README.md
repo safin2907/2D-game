@@ -1,2 +1,2 @@
-# weather forcast app
+#2D game
 making this as a finals project for my OOD course. 
