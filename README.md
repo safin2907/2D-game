@@ -1,6 +1,6 @@
 # Java Plane Shooting Game
 
-A simple 2D plane shooting game built using Java Swing and AWT. This project demonstrates object-oriented programming, basic animation, threading, and event-driven interaction through a lightweight shooting game interface.
+A simple 2D plane shooting game built using Java. This project demonstrates object-oriented programming, basic animation, threading, and event-driven interaction through a lightweight shooting game interface.
 
 ---
 
